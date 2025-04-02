@@ -36,3 +36,13 @@
 - **Authors**: Butian Xiong, Zhuo Li, Zhen Li
 - **Links**: [[arXiv:2401.14032](https://arxiv.org/abs/2401.14032)]
 
+#### MuDG: Taming Multi-modal Diffusion with Gaussian Splatting for Urban Scene Reconstruction
+- **Authors**: Yingshuang Zou, Yikang Ding, Chuanrui Zhang, Jiazhe Guo, Bohan Li, Xiaoyang Lyu, Feiyang Tan, Xiaojuan Qi, Haoqian Wang
+- **Links**: [[arXiv:2503.10604](https://arxiv.org/abs/2503.10604)]
+
+
+
+
+
+
+

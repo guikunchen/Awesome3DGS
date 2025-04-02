@@ -28,3 +28,6 @@
 - **Authors**: Zeyu Yang, Hongye Yang, Zijie Pan, Xiatian Zhu, Li Zhang
 - **Links**: [[arXiv:2310.10642](https://arxiv.org/abs/2310.10642)]
 
+#### Semantic Consistent Language Gaussian Splatting for Point-Level Open-vocabulary Querying
+- **Authors**: Hairong Yin, Huangying Zhan, Yi Xu, Raymond A. Yeh
+- **Links**: [[arXiv:2503.21767](https://arxiv.org/abs/2503.21767)]

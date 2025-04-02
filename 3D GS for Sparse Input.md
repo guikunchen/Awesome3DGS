@@ -44,3 +44,6 @@
 - **Authors**: Jiawei Zhang, Jiahe Li, Xiaohan Yu, Lei Huang, Lin Gu, Jin Zheng, Xiao Bai
 - **Links**: [[arXiv:2405.12110](https://arxiv.org/abs/2405.12110)]
 
+#### SparseGS-W: Sparse-View 3D Gaussian Splatting in the Wild with Generative Priors
+- **Authors**: Yiqing Li, Xuan Wang, Jiawei Wu, Yikun Ma, Zhi Jin
+- **Links**: [[arXiv:2503.19452](https://arxiv.org/abs/2503.19452)]

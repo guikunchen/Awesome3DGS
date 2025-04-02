@@ -40,3 +40,14 @@
 - **Authors**: Yidi Shao, Mu Huang, Chen Change Loy, Bo Dai
 - **Links**: [[arXiv:2412.17804](https://arxiv.org/abs/2412.17804)]
 
+#### Physics-Aware Human-Object Rendering from Sparse Views via 3D Gaussian Splatting
+- **Authors**: Weiquan Wang, Jun Xiao, Yueting Zhuang, Long Chen
+- **Links**: [[arXiv:2503.09640](https://arxiv.org/abs/2503.09640)]
+
+
+
+
+
+
+
+

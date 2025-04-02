@@ -36,3 +36,6 @@
 - **Authors**: Guangchi Fang, Bing Wang
 - **Links**: [[arXiv:2403.14166](https://arxiv.org/abs/2403.14166)]
 
+#### TC-GS: Tri-plane based compression for 3D Gaussian Splatting
+- **Authors**: Taorui Wang, Zitong Yu, Yong Xu
+- **Links**: [[arXiv:2503.20221](https://arxiv.org/abs/2503.20221)]

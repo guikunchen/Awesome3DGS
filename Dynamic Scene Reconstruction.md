@@ -76,3 +76,14 @@
 - **Authors**: Yuanxing Duan, Fangyin Wei, Qiyu Dai, Yuhang He, Wenzheng Chen, Baoquan Chen
 - **Links**: [[arXiv:2402.03307](https://arxiv.org/abs/2402.03307)]
 
+#### ReconDreamer++: Harmonizing Generative and Reconstructive Models for Driving Scene Representation
+- **Authors**: Guosheng Zhao, Xiaofeng Wang, Chaojun Ni, Zheng Zhu, Wenkang Qin, Guan Huang, Xingang Wang
+- **Links**: [[arXiv:2503.18438](https://arxiv.org/abs/2503.18438)]
+
+#### Real-time Global Illumination for Dynamic 3D Gaussian Scenes
+- **Authors**: Chenxiao Hu, Meng Gai, Guoping Wang, Sheng Li
+- **Links**: [[arXiv:2503.17897](https://arxiv.org/abs/2503.17897)]
+
+
+
+

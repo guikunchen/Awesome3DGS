@@ -104,3 +104,17 @@
 - **Authors**: Alfredo Rivero, ShahRukh Athar, Zhixin Shu, Dimitris Samaras
 - **Links**: [[arXiv:2402.03723](https://arxiv.org/abs/2402.03723)]
 
+#### Controlling Avatar Diffusion with Learnable Gaussian Embedding
+- **Authors**: Xuan Gao, Jingtao Zhou, Dongyu Liu, Yuqi Zhou, Juyong Zhang
+- **Links**: [[arXiv:2503.15809](https://arxiv.org/abs/2503.15809)]
+
+#### CHROME: Clothed Human Reconstruction with Occlusion-Resilience and Multiview-Consistency from a Single Image
+- **Authors**: Arindam Dutta, Meng Zheng, Zhongpai Gao, Benjamin Planche, Anwesha Choudhuri, Terrence Chen, Amit K. Roy-Chowdhury, Ziyan Wu
+- **Links**: [[arXiv:2503.15671](https://arxiv.org/abs/2503.15671)]
+
+#### Snapmoji: Instant Generation of Animatable Dual-Stylized Avatars
+- **Authors**: Eric M. Chen, Di Liu, Sizhuo Ma, Michael Vasilkovsky, Bing Zhou, Qiang Gao, Wenzhou Wang, Jiahao Luo, Dimitris N. Metaxas, Vincent Sitzmann, Jian Wang
+- **Links**: [[arXiv:2503.11978](https://arxiv.org/abs/2503.11978)]
+
+
+

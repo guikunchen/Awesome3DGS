@@ -79,3 +79,8 @@
 #### GaussianGrasper: 3D Language Gaussian Splatting for Open-vocabulary Robotic Grasping
 - **Authors**: Yuhang Zheng, Xiangyu Chen, Yupeng Zheng, Songen Gu, Runyi Yang, Bu Jin, Pengfei Li, Chengliang Zhong, Zengmao Wang, Lina Liu, others
 - **Links**: [[arXiv:2403.09637](https://arxiv.org/abs/2403.09637)]
+
+#### STAMICS: Splat, Track And Map with Integrated Consistency and Semantics for Dense RGB-D SLAM
+- **Authors**: Yongxu Wang, Xu Cao, Weiyun Yi, Zhaoxin Fan
+- **Links**: [[arXiv:2503.21425](https://arxiv.org/abs/2503.21425)]
+

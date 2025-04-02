@@ -72,3 +72,9 @@
 - **Authors**: Cameron Smith, David Charatan, Ayush Tewari, Vincent Sitzmann
 - **Links**: [[arXiv:2404.15259](https://arxiv.org/abs/2404.15259)]
 
+#### Frequency-Aware Gaussian Splatting Decomposition
+- **Authors**: Yishai Lavi, Leo Segre, Shai Avidan
+- **Links**: [[arXiv:2503.21226](https://arxiv.org/abs/2503.21226)]
+
+
+

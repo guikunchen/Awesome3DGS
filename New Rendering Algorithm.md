@@ -12,3 +12,9 @@
 - **Authors**: Jorge Condor, Sebastien Speierer, Lukas Bode, Aljaz Bozic, Simon Green, Piotr Didyk, Adrian Jarabo
 - **Links**: [[arXiv:2405.15425](https://arxiv.org/abs/2405.15425)]
 
+#### REdiSplats: Ray Tracing for Editable Gaussian Splatting
+- **Authors**: Krzysztof Byrski, Grzegorz Wilczyński, Weronika Smolak-Dyżewska, Piotr Borycki, Dawid Baran, Sławomir Tadeja, Przemysław Spurek
+- **Links**: [[arXiv:2503.12284](https://arxiv.org/abs/2503.12284)]
+
+
+

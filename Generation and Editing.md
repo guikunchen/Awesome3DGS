@@ -208,3 +208,8 @@
 - **Authors**: Jing Wu, Jia-Wang Bian, Xinghui Li, Guangrun Wang, Ian Reid, Philip Torr, Victor Adrian Prisacariu
 - **Links**: [[arXiv:2403.08733](https://arxiv.org/abs/2403.08733)]
 
+#### Repurposing 2D Diffusion Models with Gaussian Atlas for 3D Generation
+- **Authors**: Tiange Xiang, Kai Li, Chengjiang Long, Christian Häne, Peihong Guo, Scott Delp, Ehsan Adeli, Li Fei-Fei
+- **Links**: [[arXiv:2503.15877](https://arxiv.org/abs/2503.15877)]
+
+

@@ -32,3 +32,6 @@
 - **Authors**: Yuanhao Cai, Yixun Liang, Jiahao Wang, Angtian Wang, Yulun Zhang, Xiaokang Yang, Zongwei Zhou, Alan Yuille
 - **Links**: [[arXiv:2403.04116](https://arxiv.org/abs/2403.04116)]
 
+#### X^2-Gaussian: 4D Radiative Gaussian Splatting for Continuous-time Tomographic Reconstruction
+- **Authors**: Weihao Yu, Yuanhao Cai, Ruyi Zha, Zhiwen Fan, Chenxin Li, Yixuan Yuan
+- **Links**: [[arXiv:2503.21779](https://arxiv.org/abs/2503.21779)]

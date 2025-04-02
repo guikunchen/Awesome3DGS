@@ -64,3 +64,9 @@
 - **Authors**: Xiaowei Song, Jv Zheng, Shiran Yuan, Huan-ang Gao, Jingwei Zhao, Xiang He, Weihao Gu, Hao Zhao
 - **Links**: [[arXiv:2403.19615](https://arxiv.org/abs/2403.19615)]
 
+#### Beyond Existance: Fulfill 3D Reconstructed Scenes with Pseudo Details
+- **Authors**: Yifei Gao, Jun Huang, Lei Wang, Ruiting Dai, Jun Cheng
+- **Links**: [[arXiv:2503.04037](https://arxiv.org/abs/2503.04037)]
+
+
+
