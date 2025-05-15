@@ -212,4 +212,8 @@
 - **Authors**: Tiange Xiang, Kai Li, Chengjiang Long, Christian Häne, Peihong Guo, Scott Delp, Ehsan Adeli, Li Fei-Fei
 - **Links**: [[arXiv:2503.15877](https://arxiv.org/abs/2503.15877)]
 
+#### ARAP-GS: Drag-driven As-Rigid-As-Possible 3D Gaussian Splatting Editing with Diffusion Prior
+- **Authors**: Xiao Han, Runze Tian, Yifei Tong, Fenggen Yu, Dingyao Liu, Yan Zhang
+- **Links**: [[arXiv:2504.12788](https://arxiv.org/abs/2504.12788)]
+
 

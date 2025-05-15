@@ -39,3 +39,9 @@
 #### TC-GS: Tri-plane based compression for 3D Gaussian Splatting
 - **Authors**: Taorui Wang, Zitong Yu, Yong Xu
 - **Links**: [[arXiv:2503.20221](https://arxiv.org/abs/2503.20221)]
+
+#### CompGS++: Compressed Gaussian Splatting for Static and Dynamic Scene Representation
+- **Authors**: Xiangrui Liu, Xinju Wu, Shiqi Wang, Zhu Li, Sam Kwong
+- **Links**: [[arXiv:2504.13022](https://arxiv.org/abs/2504.13022)]
+
+

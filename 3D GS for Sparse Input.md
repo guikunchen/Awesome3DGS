@@ -47,3 +47,7 @@
 #### SparseGS-W: Sparse-View 3D Gaussian Splatting in the Wild with Generative Priors
 - **Authors**: Yiqing Li, Xuan Wang, Jiawei Wu, Yikun Ma, Zhi Jin
 - **Links**: [[arXiv:2503.19452](https://arxiv.org/abs/2503.19452)]
+
+#### DropoutGS: Dropping Out Gaussians for Better Sparse-view Rendering
+- **Authors**: Yexing Xu, Longguang Wang, Minglin Chen, Sheng Ao, Li Li, Yulan Guo
+- **Links**: [[arXiv:2504.09491](https://arxiv.org/abs/2504.09491)]

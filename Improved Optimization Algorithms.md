@@ -76,5 +76,8 @@
 - **Authors**: Yishai Lavi, Leo Segre, Shai Avidan
 - **Links**: [[arXiv:2503.21226](https://arxiv.org/abs/2503.21226)]
 
+#### GSta: Efficient Training Scheme with Siestaed Gaussians for Monocular 3D Scene Reconstruction
+- **Authors**: Anil Armagan, Albert Saà-Garriga, Bruno Manganelli, Kyuwon Kim, M. Kerim Yucel
+- **Links**: [[arXiv:2504.06716](https://arxiv.org/abs/2504.06716)]
 
 

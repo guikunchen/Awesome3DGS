@@ -68,5 +68,9 @@
 - **Authors**: Yifei Gao, Jun Huang, Lei Wang, Ruiting Dai, Jun Cheng
 - **Links**: [[arXiv:2503.04037](https://arxiv.org/abs/2503.04037)]
 
+#### TSGS: Improving Gaussian Splatting for Transparent Surface Reconstruction via Normal and De-lighting Priors
+- **Authors**: Mingwei Li, Pu Pang, Hehe Fan, Hua Huang, Yi Yang
+- **Links**: [[arXiv:2504.12799](https://arxiv.org/abs/2504.12799)]
+
 
 

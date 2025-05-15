@@ -40,6 +40,9 @@
 - **Authors**: Yingshuang Zou, Yikang Ding, Chuanrui Zhang, Jiazhe Guo, Bohan Li, Xiaoyang Lyu, Feiyang Tan, Xiaojuan Qi, Haoqian Wang
 - **Links**: [[arXiv:2503.10604](https://arxiv.org/abs/2503.10604)]
 
+#### BlockGaussian: Efficient Large-Scale Scene Novel View Synthesis via Adaptive Block-Based Gaussian Splatting
+- **Authors**: Yongchang Wu, Zipeng Qi, Zhenwei Shi, Zhengxia Zou
+- **Links**: [[arXiv:2504.09048](https://arxiv.org/abs/2504.09048)]
 
 
 

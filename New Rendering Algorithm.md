@@ -16,5 +16,8 @@
 - **Authors**: Krzysztof Byrski, Grzegorz Wilczyński, Weronika Smolak-Dyżewska, Piotr Borycki, Dawid Baran, Sławomir Tadeja, Przemysław Spurek
 - **Links**: [[arXiv:2503.12284](https://arxiv.org/abs/2503.12284)]
 
+#### Stochastic Ray Tracing of 3D Transparent Gaussians
+- **Authors**: Xin Sun, Iliyan Georgiev, Yun Fei, Miloš Hašan
+- **Links**: [[arXiv:2504.06598](https://arxiv.org/abs/2504.06598)]
 
 

@@ -44,6 +44,9 @@
 - **Authors**: Weiquan Wang, Jun Xiao, Yueting Zhuang, Long Chen
 - **Links**: [[arXiv:2503.09640](https://arxiv.org/abs/2503.09640)]
 
+#### LITA-GS: Illumination-Agnostic Novel View Synthesis via Reference-Free 3D Gaussian Splatting and Physical Priors
+- **Authors**: Han Zhou, Wei Dong, Jun Chen
+- **Links**: [[arXiv:2504.00219](https://arxiv.org/abs/2504.00219)]
 
 
 

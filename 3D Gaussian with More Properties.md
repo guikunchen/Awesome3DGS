@@ -31,3 +31,9 @@
 #### Semantic Consistent Language Gaussian Splatting for Point-Level Open-vocabulary Querying
 - **Authors**: Hairong Yin, Huangying Zhan, Yi Xu, Raymond A. Yeh
 - **Links**: [[arXiv:2503.21767](https://arxiv.org/abs/2503.21767)]
+
+#### FMLGS: Fast Multilevel Language Embedded Gaussians for Part-level Interactive Agents
+- **Authors**: Xin Tan, Yuzhou Ji, He Zhu, Yuan Xie
+- **Links**: [[arXiv:2504.08581](https://arxiv.org/abs/2504.08581)]
+
+

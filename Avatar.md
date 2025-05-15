@@ -116,5 +116,12 @@
 - **Authors**: Eric M. Chen, Di Liu, Sizhuo Ma, Michael Vasilkovsky, Bing Zhou, Qiang Gao, Wenzhou Wang, Jiahao Luo, Dimitris N. Metaxas, Vincent Sitzmann, Jian Wang
 - **Links**: [[arXiv:2503.11978](https://arxiv.org/abs/2503.11978)]
 
+#### ODHSR: Online Dense 3D Reconstruction of Humans and Scenes from Monocular Videos
+- **Authors**: Zetong Zhang, Manuel kaufmann, Lixin Xue, Jie Song, Martin R. Oswald
+- **Links**: [[arXiv:2504.13167](https://arxiv.org/abs/2504.13167)]
+
+#### DNF-Avatar: Distilling Neural Fields for Real-time Animatable Avatar Relighting
+- **Authors**: Zeren Jiang, Shaofei Wang, Siyu Tang
+- **Links**: [[arXiv:2504.10486](https://arxiv.org/abs/2504.10486)]
 
 

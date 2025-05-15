@@ -84,3 +84,7 @@
 - **Authors**: Yongxu Wang, Xu Cao, Weiyun Yi, Zhaoxin Fan
 - **Links**: [[arXiv:2503.21425](https://arxiv.org/abs/2503.21425)]
 
+#### Novel Demonstration Generation with Gaussian Splatting Enables Robust One-Shot Manipulation
+- **Authors**: Sizhe Yang, Wenye Yu, Jia Zeng, Jun Lv, Kerui Ren, Cewu Lu, Dahua Lin, Jiangmiao Pang
+- **Links**: [[arXiv:2504.13175](https://arxiv.org/abs/2504.13175)]
+

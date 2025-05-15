@@ -84,6 +84,9 @@
 - **Authors**: Chenxiao Hu, Meng Gai, Guoping Wang, Sheng Li
 - **Links**: [[arXiv:2503.17897](https://arxiv.org/abs/2503.17897)]
 
+#### HiMoR: Monocular Deformable Gaussian Reconstruction with Hierarchical Motion Representation
+- **Authors**: Yiming Liang, Tianhan Xu, Yuta Kikuchi
+- **Links**: [[arXiv:2504.06210](https://arxiv.org/abs/2504.06210)]
 
 
 
