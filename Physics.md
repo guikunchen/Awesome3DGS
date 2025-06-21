@@ -48,6 +48,14 @@
 - **Authors**: Han Zhou, Wei Dong, Jun Chen
 - **Links**: [[arXiv:2504.00219](https://arxiv.org/abs/2504.00219)]
 
+#### Scan, Materialize, Simulate: A Generalizable Framework for Physically Grounded Robot Planning
+- **Authors**: Amine Elhafsi, Daniel Morton, Marco Pavone
+- **Links**: [[arXiv:2505.14938](https://arxiv.org/abs/2505.14938)]
+
+#### TUGS: Physics-based Compact Representation of Underwater Scenes by Tensorized Gaussian
+- **Authors**: Shijie Lian, Ziyi Zhang, Laurence Tianruo Yang and, Mengyu Ren, Debin Liu, Hua Li
+- **Links**: [[arXiv:2505.08811](https://arxiv.org/abs/2505.08811)]
+
 
 
 

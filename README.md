@@ -32,3 +32,9 @@ This repo contains the paper list according to the taxonomy in our [survey](http
 }</code></pre>
   </div>
 </section>
+
+## Friendship link
+For full list of 3DGS papers, please refer to the following impressive repos:
+
+[Awesome3DGS](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers), [Awesome 3D Gaussian Splatting](https://github.com/MrNeRF/awesome-3D-gaussian-splatting).
+

@@ -88,5 +88,17 @@
 - **Authors**: Yiming Liang, Tianhan Xu, Yuta Kikuchi
 - **Links**: [[arXiv:2504.06210](https://arxiv.org/abs/2504.06210)]
 
+#### MGStream: Motion-aware 3D Gaussian for Streamable Dynamic Scene Reconstruction
+- **Authors**: Zhenyu Bao, Qing Li, Guibiao Liao, Zhongyuan Zhao, Kanglin Liu
+- **Links**: [[arXiv:2505.13839](https://arxiv.org/abs/2505.13839)]
+
+#### GrowSplat: Constructing Temporal Digital Twins of Plants with Gaussian Splats
+- **Authors**: Simeon Adebola, Shuangyu Xie, Chung Min Kim, Justin Kerr, Bart M. van Marrewijk, Mieke van Vlaardingen, Tim van Daalen, E.N. van Loo, Jose Luis Susa Rincon, Eugen Solowjow, Rick van de Zedde, Ken Goldberg
+- **Links**: [[arXiv:2505.10923](https://arxiv.org/abs/2505.10923)]
+
+#### DLO-Splatting: Tracking Deformable Linear Objects Using 3D Gaussian Splatting
+- **Authors**: Holly Dinkel, Marcel Büsching, Alberta Longhini, Brian Coltin, Trey Smith, Danica Kragic, Mårten Björkman, Timothy Bretl
+- **Links**: [[arXiv:2505.08644](https://arxiv.org/abs/2505.08644)]
+
 
 

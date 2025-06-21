@@ -51,3 +51,31 @@
 #### DropoutGS: Dropping Out Gaussians for Better Sparse-view Rendering
 - **Authors**: Yexing Xu, Longguang Wang, Minglin Chen, Sheng Ao, Li Li, Yulan Guo
 - **Links**: [[arXiv:2504.09491](https://arxiv.org/abs/2504.09491)]
+
+#### MonoSplat: Generalizable 3D Gaussian Splatting from Monocular Depth Foundation Models
+- **Authors**: Yifan Liu, Keyu Fan, Weihao Yu, Chenxin Li, Hao Lu, Yixuan Yuan
+- **Links**: [[arXiv:2505.15185](https://arxiv.org/abs/2505.15185)]
+
+#### Personalize Your Gaussian: Consistent 3D Scene Personalization from a Single Image
+- **Authors**: Yuxuan Wang, Xuanyu Yi, Qingshan Xu, Yuan Zhou, Long Chen, Hanwang Zhang
+- **Links**: [[arXiv:2505.14537](https://arxiv.org/abs/2505.14537)]
+
+#### SpatialCrafter: Unleashing the Imagination of Video Diffusion Models for Scene Reconstruction from Limited Observations
+- **Authors**: Songchun Zhang, Huiyao Xu, Sitong Guo, Zhongwei Xie, Pengwei Liu, Hujun Bao, Weiwei Xu, Changqing Zou
+- **Links**: [[arXiv:2505.11992](https://arxiv.org/abs/2505.11992)]
+
+#### QuickSplat: Fast 3D Surface Reconstruction via Learned Gaussian Initialization
+- **Authors**: Yueh-Cheng Liu, Lukas Höllein, Matthias Nießner, Angela Dai
+- **Links**: [[arXiv:2505.05591](https://arxiv.org/abs/2505.05591)]
+
+#### Sparfels: Fast Reconstruction from Sparse Unposed Imagery
+- **Authors**: Shubhendu Jena, Amine Ouasfi, Mae Younes, Adnane Boukhayma
+- **Links**: [[arXiv:2505.02178](https://arxiv.org/abs/2505.02178)]
+
+#### VGNC: Reducing the Overfitting of Sparse-view 3DGS via Validation-guided Gaussian Number Control
+- **Authors**: Lifeng Lin, Rongfeng Lu, Quan Chen, Haofan Ren, Ming Lu, Yaoqi Sun, Chenggang Yan, Anke Xue
+- **Links**: [[arXiv:2504.14548](https://arxiv.org/abs/2504.14548)]
+
+
+
+

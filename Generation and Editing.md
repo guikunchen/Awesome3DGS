@@ -216,4 +216,28 @@
 - **Authors**: Xiao Han, Runze Tian, Yifei Tong, Fenggen Yu, Dingyao Liu, Yan Zhang
 - **Links**: [[arXiv:2504.12788](https://arxiv.org/abs/2504.12788)]
 
+#### iSegMan: Interactive Segment-and-Manipulate 3D Gaussians
+- **Authors**: Yian Zhao, Wanshi Xu, Ruochong Zheng, Pengchong Qiao, Chang Liu, Jie Chen
+- **Links**: [[arXiv:2505.11934](https://arxiv.org/abs/2505.11934)]
+
+#### Apply Hierarchical-Chain-of-Generation to Complex Attributes Text-to-3D Generation
+- **Authors**: Yiming Qin, Zhu Xu, Yang Liu
+- **Links**: [[arXiv:2505.05505](https://arxiv.org/abs/2505.05505)]
+
+#### Bridging Geometry-Coherent Text-to-3D Generation with Multi-View Diffusion Priors and Gaussian Splatting
+- **Authors**: Feng Yang, Wenliang Qian, Wangmeng Zuo, Hui Li
+- **Links**: [[arXiv:2505.04262](https://arxiv.org/abs/2505.04262)]
+
+#### FreeInsert: Disentangled Text-Guided Object Insertion in 3D Gaussian Scene without Spatial Priors
+- **Authors**: Chenxi Li, Weijie Wang, Qiang Li, Bruno Lepri, Nicu Sebe, Weizhi Nie
+- **Links**: [[arXiv:2505.01322](https://arxiv.org/abs/2505.01322)]
+
+#### STP4D: Spatio-Temporal-Prompt Consistent Modeling for Text-to-4D Gaussian Splatting
+- **Authors**: Yunze Deng, Haijun Xiong, Bin Feng, Xinggang Wang, Wenyu Liu
+- **Links**: [[arXiv:2504.18318](https://arxiv.org/abs/2504.18318)]
+
+#### Visibility-Uncertainty-guided 3D Gaussian Inpainting via Scene Conceptional Learning
+- **Authors**: Mingxuan Cui, Qing Guo, Yuyi Wang, Hongkai Yu, Di Lin, Qin Zou, Ming-Ming Cheng, Xi Li
+- **Links**: [[arXiv:2504.17815](https://arxiv.org/abs/2504.17815)]
+
 

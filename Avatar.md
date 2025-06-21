@@ -124,4 +124,35 @@
 - **Authors**: Zeren Jiang, Shaofei Wang, Siyu Tang
 - **Links**: [[arXiv:2504.10486](https://arxiv.org/abs/2504.10486)]
 
+#### GUAVA: Generalizable Upper Body 3D Gaussian Avatar
+- **Authors**: Dongbin Zhang, Yunfei Liu, Lijian Lin, Ye Zhu, Yang Li, Minghan Qin, Yu Li, Haoqian Wang
+- **Links**: [[arXiv:2505.03351](https://arxiv.org/abs/2505.03351)]
+
+#### GenSync: A Generalized Talking Head Framework for Audio-driven Multi-Subject Lip-Sync using 3D Gaussian Splatting
+- **Authors**: Anushka Agarwal, Muhammad Yusuf Hassan, Talha Chafekar
+- **Links**: [[arXiv:2505.01928](https://arxiv.org/abs/2505.01928)]
+
+#### Real-Time Animatable 2DGS-Avatars with Detail Enhancement from Monocular Videos
+- **Authors**: Xia Yuan, Hai Yuan, Wenyi Ge, Ying Fu, Xi Wu, Guanyu Xing
+- **Links**: [[arXiv:2505.00421](https://arxiv.org/abs/2505.00421)]
+
+#### EfficientHuman: Efficient Training and Reconstruction of Moving Human using Articulated 2D Gaussian
+- **Authors**: Hao Tian, Rui Liu, Wen Shen, Yilong Hu, Zhihao Zheng, Xiaolin Qin
+- **Links**: [[arXiv:2504.20607](https://arxiv.org/abs/2504.20607)]
+
+#### Creating Your Editable 3D Photorealistic Avatar with Tetrahedron-constrained Gaussian Splatting
+- **Authors**: Hanxi Liu, Yifang Men, Zhouhui Lian
+- **Links**: [[arXiv:2504.20403](https://arxiv.org/abs/2504.20403)]
+
+#### SEGA: Drivable 3D Gaussian Head Avatar from a Single Image
+- **Authors**: Chen Guo, Zhuo Su, Jian Wang, Shuang Li, Xu Chang, Zhaohu Li, Yang Zhao, Guidong Wang, Ruqi Huang
+- **Links**: [[arXiv:2504.14373](https://arxiv.org/abs/2504.14373)]
+
+
+
+
+
+
+
+
 

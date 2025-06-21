@@ -44,7 +44,13 @@
 - **Authors**: Yongchang Wu, Zipeng Qi, Zhenwei Shi, Zhengxia Zou
 - **Links**: [[arXiv:2504.09048](https://arxiv.org/abs/2504.09048)]
 
+#### Large-Scale Gaussian Splatting SLAM
+- **Authors**: Zhe Xin, Chenyang Wu, Penghui Huang, Yanyong Zhang, Yinian Mao, Guoquan Huang
+- **Links**: [[arXiv:2505.09915](https://arxiv.org/abs/2505.09915)]
 
+#### HUG: Hierarchical Urban Gaussian Splatting with Block-Based Reconstruction
+- **Authors**: Zhongtao Wang, Mai Su, Huishan Au, Yilong Li, Xizhe Cao, Chengwei Pan, Yisong Chen, Guoping Wang
+- **Links**: [[arXiv:2504.16606](https://arxiv.org/abs/2504.16606)]
 
 
 

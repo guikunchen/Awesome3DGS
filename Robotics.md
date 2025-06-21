@@ -88,3 +88,35 @@
 - **Authors**: Sizhe Yang, Wenye Yu, Jia Zeng, Jun Lv, Kerui Ren, Cewu Lu, Dahua Lin, Jiangmiao Pang
 - **Links**: [[arXiv:2504.13175](https://arxiv.org/abs/2504.13175)]
 
+#### Scan, Materialize, Simulate: A Generalizable Framework for Physically Grounded Robot Planning
+- **Authors**: Amine Elhafsi, Daniel Morton, Marco Pavone
+- **Links**: [[arXiv:2505.14938](https://arxiv.org/abs/2505.14938)]
+
+#### GrowSplat: Constructing Temporal Digital Twins of Plants with Gaussian Splats
+- **Authors**: Simeon Adebola, Shuangyu Xie, Chung Min Kim, Justin Kerr, Bart M. van Marrewijk, Mieke van Vlaardingen, Tim van Daalen, E.N. van Loo, Jose Luis Susa Rincon, Eugen Solowjow, Rick van de Zedde, Ken Goldberg
+- **Links**: [[arXiv:2505.10923](https://arxiv.org/abs/2505.10923)]
+
+#### Large-Scale Gaussian Splatting SLAM
+- **Authors**: Zhe Xin, Chenyang Wu, Penghui Huang, Yanyong Zhang, Yinian Mao, Guoquan Huang
+- **Links**: [[arXiv:2505.09915](https://arxiv.org/abs/2505.09915)]
+
+#### Real2Render2Real: Scaling Robot Data Without Dynamics Simulation or Robot Hardware
+- **Authors**: Justin Yu, Letian Fu, Huang Huang, Karim El-Refai, Rares Andrei Ambrus, Richard Cheng, Muhammad Zubair Irshad, Ken Goldberg
+- **Links**: [[arXiv:2505.09601](https://arxiv.org/abs/2505.09601)]
+
+#### GSFF-SLAM: 3D Semantic Gaussian Splatting SLAM via Feature Field
+- **Authors**: Zuxing Lu, Xin Yuan, Shaowen Yang, Jingyu Liu, Jiawei Wang, Changyin Sun
+- **Links**: [[arXiv:2504.19409](https://arxiv.org/abs/2504.19409)]
+
+#### ToF-Splatting: Dense SLAM using Sparse Time-of-Flight Depth and Multi-Frame Integration
+- **Authors**: Andrea Conti, Matteo Poggi, Valerio Cambareri, Martin R. Oswald, Stefano Mattoccia
+- **Links**: [[arXiv:2504.16545](https://arxiv.org/abs/2504.16545)]
+
+#### Green Robotic Mixed Reality with Gaussian Splatting
+- **Authors**: Chenxuan Liu, He Li, Zongze Li, Shuai Wang, Wei Xu, Kejiang Ye, Derrick Wing Kwan Ng, Chengzhong Xu
+- **Links**: [[arXiv:2504.13697](https://arxiv.org/abs/2504.13697)]
+
+#### BEV-GS: Feed-forward Gaussian Splatting in Bird's-Eye-View for Road Reconstruction
+- **Authors**: Wenhua Wu, Tong Zhao, Chensheng Peng, Lei Yang, Yintao Wei, Zhe Liu, Hesheng Wang
+- **Links**: [[arXiv:2504.13207](https://arxiv.org/abs/2504.13207)]
+

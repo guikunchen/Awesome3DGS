@@ -35,3 +35,17 @@
 #### X^2-Gaussian: 4D Radiative Gaussian Splatting for Continuous-time Tomographic Reconstruction
 - **Authors**: Weihao Yu, Yuanhao Cai, Ruyi Zha, Zhiwen Fan, Chenxin Li, Yixuan Yuan
 - **Links**: [[arXiv:2503.21779](https://arxiv.org/abs/2503.21779)]
+
+#### X-GRM: Large Gaussian Reconstruction Model for Sparse-view X-rays to Computed Tomography
+- **Authors**: Yifan Liu, Wuyang Li, Weihao Yu, Chenxin Li, Alexandre Alahi, Max Meng, Yixuan Yuan
+- **Links**: [[arXiv:2505.15235](https://arxiv.org/abs/2505.15235)]
+
+#### MoRe-3DGSMR: Motion-resolved reconstruction framework for free-breathing pulmonary MRI based on 3D Gaussian representation
+- **Authors**: Tengya Peng, Ruyi Zha, Qing Zou
+- **Links**: [[arXiv:2505.04959](https://arxiv.org/abs/2505.04959)]
+
+#### IXGS-Intraoperative 3D Reconstruction from Sparse, Arbitrarily Posed Real X-rays
+- **Authors**: Sascha Jecklin, Aidana Massalimova, Ruyi Zha, Lilian Calvet, Christoph J. Laux, Mazda Farshad, Philipp Fürnstahl
+- **Links**: [[arXiv:2504.14699](https://arxiv.org/abs/2504.14699)]
+
+

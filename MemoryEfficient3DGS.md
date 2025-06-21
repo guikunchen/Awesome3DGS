@@ -44,4 +44,8 @@
 - **Authors**: Xiangrui Liu, Xinju Wu, Shiqi Wang, Zhu Li, Sam Kwong
 - **Links**: [[arXiv:2504.13022](https://arxiv.org/abs/2504.13022)]
 
+#### 4DGS-CC: A Contextual Coding Framework for 4D Gaussian Splatting Data Compression
+- **Authors**: Zicong Chen, Zhenghao Chen, Wei Jiang, Wei Wang, Lei Liu, Dong Xu
+- **Links**: [[arXiv:2504.18925](https://arxiv.org/abs/2504.18925)]
+
 

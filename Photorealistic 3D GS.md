@@ -72,5 +72,9 @@
 - **Authors**: Mingwei Li, Pu Pang, Hehe Fan, Hua Huang, Yi Yang
 - **Links**: [[arXiv:2504.12799](https://arxiv.org/abs/2504.12799)]
 
+#### Metamon-GS: Enhancing Representability with Variance-Guided Densification and Light Encoding
+- **Authors**: Junyan Su, Baozhu Zhao, Xiaohan Zhang, Qi Liu
+- **Links**: [[arXiv:2504.14460](https://arxiv.org/abs/2504.14460)]
+
 
 

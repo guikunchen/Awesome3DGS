@@ -16,3 +16,11 @@
 - **Authors**: Wei Sun, Yanzhao Zhou, Jianbin Jiao, Yuan Li
 - **Links**: [[arXiv:2504.11893](https://arxiv.org/abs/2504.11893)]
 
+#### Hybrid 3D-4D Gaussian Splatting for Fast Dynamic Scene Representation
+- **Authors**: Seungjun Oh, Younggeun Lee, Hyejin Jeon, Eunbyung Park
+- **Links**: [[arXiv:2505.13215](https://arxiv.org/abs/2505.13215)]
+
+#### StyleMe3D: Stylization with Disentangled Priors by Multiple Encoders on 3D Gaussians
+- **Authors**: Cailin Zhuang, Yaoqi Hu, Xuanyang Zhang, Wei Cheng, Jiacheng Bao, Shengqi Liu, Yiying Yang, Xianfang Zeng, Gang Yu, Ming Li
+- **Links**: [[arXiv:2504.15281](https://arxiv.org/abs/2504.15281)]
+

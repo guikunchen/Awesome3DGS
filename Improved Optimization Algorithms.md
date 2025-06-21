@@ -80,4 +80,20 @@
 - **Authors**: Anil Armagan, Albert Saà-Garriga, Bruno Manganelli, Kyuwon Kim, M. Kerim Yucel
 - **Links**: [[arXiv:2504.06716](https://arxiv.org/abs/2504.06716)]
 
+#### Consistent Quantity-Quality Control across Scenes for Deployment-Aware Gaussian Splatting
+- **Authors**: Fengdi Zhang, Hongkun Cao, Ruqi Huang
+- **Links**: [[arXiv:2505.10473](https://arxiv.org/abs/2505.10473)]
+
+#### ToonifyGB: StyleGAN-based Gaussian Blendshapes for 3D Stylized Head Avatars
+- **Authors**: Rui-Yang Ju, Sheng-Yen Huang, Yi-Ping Hung
+- **Links**: [[arXiv:2505.10072](https://arxiv.org/abs/2505.10072)]
+
+#### VGNC: Reducing the Overfitting of Sparse-view 3DGS via Validation-guided Gaussian Number Control
+- **Authors**: Lifeng Lin, Rongfeng Lu, Quan Chen, Haofan Ren, Ming Lu, Yaoqi Sun, Chenggang Yan, Anke Xue
+- **Links**: [[arXiv:2504.14548](https://arxiv.org/abs/2504.14548)]
+
+#### EDGS: Eliminating Densification for Efficient Convergence of 3DGS
+- **Authors**: Dmytro Kotovenko, Olga Grebenkova, Björn Ommer
+- **Links**: [[arXiv:2504.13204](https://arxiv.org/abs/2504.13204)]
+
 

@@ -36,4 +36,8 @@
 - **Authors**: Xin Tan, Yuzhou Ji, He Zhu, Yuan Xie
 - **Links**: [[arXiv:2504.08581](https://arxiv.org/abs/2504.08581)]
 
+#### SLAG: Scalable Language-Augmented Gaussian Splatting
+- **Authors**: Laszlo Szilagyi, Francis Engelmann, Jeannette Bohg
+- **Links**: [[arXiv:2505.08124](https://arxiv.org/abs/2505.08124)]
+
 
